@@ -1,4 +1,3 @@
-
 from math import sqrt
 critics = {
     'Lisa Rose': {
@@ -19,7 +18,7 @@ critics = {
     },
     'Michael Phillips': {
         'Lady in the Water': 2.5,
-        'Snakes on a Plane': 3.0,
+        'Snakes on a Plane': 3.0, 
         'Superman Returns': 3.5,
         'The Night Listener': 4.0,
     },
