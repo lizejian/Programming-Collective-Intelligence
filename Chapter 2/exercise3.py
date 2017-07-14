@@ -1,3 +1,4 @@
+'''预先计算用户的相似度'''
 critics = {
     'Lisa Rose': {
         'Lady in the Water': 2.5,
