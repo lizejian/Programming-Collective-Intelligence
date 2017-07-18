@@ -1,0 +1,818 @@
+Entry	is	we	on	that
+Discovering Congestion Propagation Patterns in Spatio-Temporal Traffic Data	3	1	2	0
+Optimal Pick up Point Selection for Effective Ride Sharing	4	7	3	4
+Local Gaussian Processes for Efficient Fine-Grained Traffic Speed Prediction	2	4	2	3
+Detecting and Analyzing Urban Regions with High Impact of Weather Change on Transport	2	3	5	3
+Modeling Urban Behavior by Mining Geotagged Social Data	1	3	3	3
+Activity-Based Human Mobility Patterns Inferred from Mobile Phone Data: A Case Study of Singapore	1	3	1	2
+Effective Urban Structure Inference from Traffic Flow Dynamics	4	4	1	5
+Significant Linear Hotspot Discovery	4	1	3	1
+Visual Analysis of Multiple Route Choices Based on General GPS Trajectories	2	3	4	0
+Guest Editorial: Urban Computing	0	0	0	0
+Service Rating Prediction by Exploring Social Mobile Users&#x2019; Geographical Locations	1	4	1	2
+Retrieving Objects by Partitioning	5	1	3	0
+Tales of Two Cities: Using Social Media to Understand Idiosyncratic Lifestyles in Distinctive Metropolitan Areas	1	5	0	1
+Learning to Classify Fine-Grained Categories with Privileged Visual-Semantic Misalignment	3	0	3	1
+The Habits of Highly Effective Researchers: An Empirical Study	1	4	0	3
+SocialQ&A: An Online Social Network Based Question and Answer System	2	4	0	2
+Toward Efficient and Flexible Metadata Indexing of Big Data Systems	6	2	0	3
+DiP-SVM : Distribution Preserving Kernel Support Vector Machine for Big Data	0	4	3	3
+Big Scholarly Data: A Survey	1	4	0	0
+Guest Editorial: Big Media Data: Understanding, Search, and Mining	0	0	0	0
+Guest Editorial: Big Scholar Data Discovery and Collaboration	0	0	0	0
+State of the Journal Editorial	0	0	1	0
+2016 Reviewers List*	0	0	0	0
+2016 Index IEEE Transactions on Big Data Vol. 2	0	0	1	0
+Efficient Image Geotagging Using Large Databases	1	2	3	3
+The Memory Challenge in Reduce Phase of MapReduce Applications	2	2	2	2
+A Hierarchical Distributed Processing Framework for Big Image Data	3	0	2	0
+Performance Modeling and Predictive Scheduling for Distributed Stream Data Processing	1	4	2	0
+Scalable Nearest Neighbor Sparse Graph Approximation by Exploiting Graph Structure	2	7	2	1
+Fuzzy Based Scalable Clustering Algorithms for Handling Big Data Using Apache Spark	4	2	5	1
+Architecting Time-Critical Big-Data Systems	1	0	1	3
+A Distributed Graph-Parallel Computing System with Lightweight Communication Overhead	2	2	1	1
+Kvasir: Scalable Provision of Semantically Relevant Web Content on Big Data Framework	1	4	2	1
+Agile Big Data Analytics for Web-Based Systems: An Architecture-Centric Approach	2	0	0	1
+Visual Analytics in Urban Computing: An Overview	2	5	3	0
+Clustering Big Spatiotemporal-Interval Data	3	2	0	0
+Analyzing Big Smart Metering Data Towards Differentiated User Services: A Sublinear Approach	1	4	2	1
+Towards Real-Time Detection and Tracking of Spatio-Temporal Features: Blob-Filaments in Fusion Plasma	1	2	2	1
+Guest Editorial: Big Data Analytics and the Web	0	0	0	0
+A Recommendation System Based on Hierarchical Clustering of an Article-Level Citation Network	2	5	2	3
+Scientific Article Recommendation: Exploiting Common Author Relations and Historical Preferences	1	3	3	2
+Universal Nonlinear Regression on High Dimensional Data Using Adaptive Hierarchical Trees	0	5	1	0
+Sparse Computation for Large-Scale Data Mining	5	2	3	4
+How Long Will This Live? Discovering the Lifespans of Software Engineering Ideas	2	6	1	1
+Deduplication on Encrypted Big Data in Cloud	1	2	4	0
+Guest Editorial: Special Issue on Big Scholar Data Discovery and Collaboration (Continued)	0	0	1	0
+GPU-Accelerated Large-Scale Distributed Sorting Coping with Device Memory Capacity	4	2	3	2
+Can Scientific Impact Be Predicted?	2	7	2	3
+Partial Copy Detection in Videos: A Benchmark and an Evaluation of Popular Methods	5	2	4	1
+Personalized Travel Sequence Recommendation on Multi-Source Big Social Media	2	4	2	0
+USTF: A Unified System of Team Formation	4	5	1	3
+Visual Exploration of Changes in Passenger Flows and Tweets on Mega-City Metro Network	1	1	3	0
+AlgorithmSeer: A System for Extracting and Searching for Algorithms in Scholarly Big Data	2	0	1	1
+LS-AMS: An Adaptive Indexing Structure for Realtime Search on Microblogs	1	0	3	1
+Scale-Out Processing of Large RDF Datasets	0	2	3	2
+Robust Discrete Spectral Hashing for Large-Scale Image Semantic Indexing	1	4	4	0
+Learning Visual Semantic Relationships for Efficient Visual Retrieval	1	5	2	0
+Guest Editorial: Big Media Data: Understanding, Search, and Mining (Part 2)	0	0	0	0
+Weakly Semi-Supervised Deep Learning for Multi-Label Image Annotation	3	3	1	1
+Code Consistent Hashing Based on Information-Theoretic Criterion	0	2	3	1
+Exploration of Image Search Results Quality Assessment	5	0	2	0
+Petuum: A New Platform for Distributed Machine Learning on Big Data	1	2	5	4
+SMC: A Practical Schema for Privacy-Preserved Data Sharing over Distributed Data Streams	4	3	1	0
+Embracing Information Explosion without Choking: Clustering and Labeling in Microblogging	2	2	1	1
+Methodologies for Cross-Domain Data Fusion: An Overview	2	1	1	1
+Introduction to the <italic>IEEE Transactions on Big Data</italic>	0	0	1	0
+Welcome to the <italic>IEEE Transactions on Big Data</italic>	0	0	1	0
+Joint Optimization of Bandwidth for Provider and Delay for User in Software Defined Data Centers	2	6	3	0
+Cloud-Based Utility Service Framework for Trust Negotiations Using Federated Identity Management	2	2	3	0
+Understanding the Performance and Potential of Cloud Computing for Scientific Applications	1	6	2	0
+Adaptive Cloud Deployment Using Persistence Strategies and Application Awareness	2	0	1	0
+Self-Adjusting Slot Configurations for Homogeneous and Heterogeneous Hadoop Clusters	1	3	1	1
+DyScale: A MapReduce Job Scheduler for Heterogeneous Multicore Processors	1	3	2	5
+Designing Self-Tuning Split-Map-Merge Applications for High Cost-Efficiency in the Cloud	0	4	1	4
+Off-Peak Energy Optimization for Links in Virtualized Network Environment	5	1	0	1
+Tandem Equipment Arranged Architecture with Exhaust Heat Reuse System for Software-Defined Data Center Infrastructure	3	4	0	6
+Water-Constrained Geographic Load Balancing in Data Centers	1	2	1	1
+On the Latency and Energy Efficiency of Distributed Storage Systems	3	5	3	2
+Exploiting Renewable Sources: When Green SLA Becomes a Possible Reality in Cloud Computing	2	4	1	1
+Towards Robust Green Virtual Cloud Data Center Provisioning	3	1	0	0
+Optimize the Server Provisioning and Request Dispatching in Distributed Memory Cache Services	2	3	3	1
+Proactive Thermal-Aware Resource Management in Virtualized HPC Cloud Datacenters	2	0	0	0
+An Energy-Efficient Java Virtual Machine	6	0	4	0
+Guest Editors¡¯ Introduction: Special Issue on Green and Energy-Efficient Cloud Computing Part II	0	0	1	0
+Joint Pricing and Capacity Planning in the IaaS Cloud Market	0	6	1	0
+Joint Resource Provisioning for Internet Datacenters with Diverse and Dynamic Traffic	1	4	3	1
+kBF: Towards Approximate and Bloom Filter based Key-Value Storage for Cloud Computing Systems	3	5	1	2
+Orchestrating Bulk Data Transfers across Geo-Distributed Datacenters	1	3	2	0
+Automatic Memory Control of Multiple Virtual Machines on a Consolidated Server	3	4	4	1
+Energy-Aware Load Balancing and Application Scaling for the Cloud Ecosystem	1	1	1	0
+HFSP: Bringing Size-Based Scheduling To Hadoop	2	1	2	1
+Fast, Ad Hoc Query Evaluations over Multidimensional Geospatial Datasets	0	2	2	2
+TEES: An Efficient Search Scheme over Encrypted Data on Mobile Cloud	4	2	2	3
+Mathematical Programming Approach for Revenue Maximization in Cloud Federations	2	0	0	0
+2016 Index IEEE Transactions on Cloud Computing Vol. 4	0	0	1	0
+2016 Reviewers List<formula formulatype="inline"><tex Notation="TeX"/></formula>	0	0	0	0
+TCC: State of the Transactions	0	0	0	0
+Modeling and Placement of Cloud Services with Internal Structure	3	3	1	5
+Heuristic-Based Resource Reservation Strategies for Public Cloud	3	2	1	1
+M-Convex VM Consolidation: Towards a Better VM Workload Consolidation	6	1	2	4
+On Cloud Service Reliability Enhancement with Optimal Resource Usage	1	3	3	2
+Inter-Data Center Network Dimensioning under Time-of-Use Pricing	1	5	0	1
+Partial Utility-Driven Scheduling for Flexible SLA and Pricing Arbitration in Clouds	2	3	0	0
+Whither Tightness of Packing? The Case for Stable VM Placement	9	4	2	4
+Efficient Modeling and Demand Allocation for Differentiated Cloud Virtual-Network as-a Service Offerings	2	3	3	1
+Moderating Effect of Compliance, Network, and Security on the Critical Success Factors in the Implementation of Cloud ERP	2	0	3	3
+Strategy-Proof Pricing for Cloud Service Composition	5	2	4	2
+Evaluating and Improving the Performance and Scheduling of HPC Applications in Cloud	1	4	1	1
+A Risk Assessment Framework for Cloud Computing	3	0	3	3
+Cloud-Assisted Computation Offloading to Support Mobile Services	1	1	2	3
+End-to-End Optimization for Geo-Distributed MapReduce	1	5	2	3
+Run Time Application Repartitioning in Dynamic Mobile Cloud Environments	2	4	5	4
+Planning vs. Dynamic Control: Resource Allocation in Corporate Clouds	2	2	2	3
+Securing Loosely-Coupled Collaboration in Cloud Environment through Dynamic Detection and Removal of Access Conflicts	1	1	1	0
+A Reference Model for Virtual Machine Launching Overhead	7	4	7	2
+Improving Multicore Server Performance and Reducing Energy Consumption by Workload Dependent Dynamic Power Management	11	0	2	7
+On Achieving Energy Efficiency and Reducing CO<sub>2</sub> Footprint in Cloud Computing	1	0	2	3
+CO<sub>2</sub>-Aware Adaptation Strategies for Cloud Applications	0	1	1	1
+Pervasive Cloud Controller for Geotemporal Inputs	1	5	2	0
+Decentralized and Energy-Efficient Workload Management in Enterprise Clouds	0	1	2	1
+eCope: Workload-Aware Elastic Customization for Power Efficiency of High-End Servers	2	3	1	3
+Hierarchical SLA-Driven Resource Management for Peak Power-Aware and Energy-Efficient Operation of a Cloud Datacenter	3	0	0	1
+Energy-Efficient Virtual Machines Scheduling in Multi-Tenant Data Centers	1	3	0	2
+<italic>EnReal</italic>: An Energy-Aware Resource Allocation Method for Scientific Workflow Executions in Cloud Environment	4	2	0	1
+Guest Editors&#x2019; Introduction: Special Issue on Green and Energy-Efficient Cloud Computing: Part I	0	0	1	0
+To <italic>Cloudify</italic> or Not to <italic>Cloudify</italic>: The Question for a Scientific Data Center	5	1	1	2
+Monetary Cost Optimizations for Hosting Workflow-as-a-Service in IaaS Clouds	2	3	4	1
+Application-Level Optimization of Big Data Transfers through Pipelining, Parallelism and Concurrency	1	2	1	4
+AutoElastic: Automatic Resource Elasticity for High Performance Applications in the Cloud	2	1	2	1
+Dynamic and Fault-Tolerant Clustering for Scientific Workflows	1	4	3	4
+Cloud Computing for Earth Surface Deformation Analysis via Spaceborne Radar Imaging: A Case Study	3	3	4	2
+OverFlow: Multi-Site Aware Big Data Management for Scientific Workflows on Clouds	4	1	4	1
+Ensemble: A Tool for Performance Modeling of Applications in Cloud Data Centers	0	2	2	1
+2015 Index IEEE Transactions on Cloud Computing Vol. 3	0	0	1	0
+Guest Editors Introduction: Special Issue on Scientific Cloud Computing	0	0	1	0
+<italic>IEEE Transactions on Cloud Computing</italic>: Entering Its Fourth Year with Confidence	0	0	1	0
+A Message from the New Editor-in-Chief	0	0	0	0
+LsPS: A Job Size-Based Scheduler for Efficient Task Assignments in Hadoop	2	2	0	2
+Privacy-Preserving Data Storage in CloudUsing Array BP-XOR Codes	1	5	1	3
+Towards Optimized Fine-Grained Pricing of IaaS Cloud Platform	2	5	0	2
+Workload Prediction Using ARIMA Model and Its Impact on Cloud Applications&#x2019; QoS	2	3	5	1
+A Procurement Auction Market to Trade Residual Cloud Computing Capacity	3	2	0	3
+Physical Machine Resource Management in Clouds: A Mechanism Design Approach	1	5	1	9
+Clabacus: A Risk-Adjusted Cloud Resources Pricing Model Using Financial Option Theory	0	9	1	2
+Revenue Maximization with Optimal Capacity Control in Infrastructure as a Service Cloud Markets	2	3	3	5
+Agent-Based Interactions and Economic Encounters in an Intelligent InterCloud	5	0	0	6
+Market Models for Federated Clouds	0	2	2	0
+Spatio-Temporal Load Balancing for Energy Cost Optimization in Distributed Internet Data Centers	1	2	0	2
+CHARM: A Cost-Efficient Multi-Cloud Data Hosting Scheme with High Availability	5	1	1	2
+Business-Driven Long-Term Capacity Planning for SaaS Applications	5	1	2	3
+Implementing Design Diversity Using Portfolio Thinking to Dynamically and Adaptively Manage the Allocation of Web Services in the Cloud	0	4	1	1
+An Intelligent Economic Approach for Dynamic Resource Allocation in Cloud Services	6	0	0	1
+Exploring Fine-Grained Resource Rental Planning in Cloud Computing	0	7	4	3
+Guest Editors' Introduction: Special Issue on Economics and Market Mechanisms for Cloud Computing	0	0	2	0
+FastRAQ: A Fast Approach to Range-Aggregate Queries in Big Data Environments	4	2	2	2
+Adaptive Workflow Scheduling on Cloud Computing Platforms with IterativeOrdinal Optimization	5	2	5	0
+An Efficient Green Control Algorithm in Cloud Computing for Cost Optimization	2	0	1	1
+Aggressive Resource Provisioning for Ensuring QoS in Virtualized Environments	1	1	0	2
+End-to-End Delay Minimization for Scientific Workflows in Clouds under Budget Constraint	1	4	1	2
+A Secure Cloud Computing Based Framework for Big Data Information Management of Smart Grid	3	3	2	2
+Deploying Large-Scale Datasets on-Demand in the Cloud: Treats and Tricks on Data Distribution	2	2	3	1
+OPoR: Enabling Proof of Retrievability in Cloud Computing with Resource-Constrained Devices	3	4	1	1
+PRISM: Fine-Grained Resource-Aware Scheduling for MapReduce	1	3	1	3
+Reactive Resource Provisioning Heuristics for Dynamic Dataflows on Cloud Infrastructure	1	3	4	3
+CHive: Bandwidth Optimized Continuous Querying in Distributed Clouds	2	0	1	3
+Recent advances in autonomic provisioning of big data applications on clouds	0	0	2	0
+Learning Social Circles in Ego-Networks Based on Multi-View Network Structure	1	4	5	1
+App Miscategorization Detection: A Case Study on Google Play	3	1	4	2
+Semiring Rank Matrix Factorization	4	3	3	4
+Geo-Social Influence Spanning Maximization	6	8	2	3
+VISUAL: Simulation of Visual Subgraph Query Formulation to Enable Automated Performance Benchmarking	2	1	2	1
+On Fault Tolerance for Distributed Iterative Dataflow Processing	3	7	3	7
+Storing, Tracking, and Querying Provenance in Linked Data	2	5	1	2
+Efficient Keyword-Aware Representative Travel Route Recommendation	2	8	2	5
+Keyword Search on Temporal Graphs	3	3	2	3
+Matching Heterogeneous Events with Patterns	3	4	0	1
+Classification Under Streaming Emerging New Classes: A Solution Using Completely-Random Trees	1	2	1	1
+Adaptive Ensembling of Semi-Supervised Clustering Solutions	2	2	3	1
+Scalable Algorithms for CQA Post Voting Prediction	0	3	1	1
+Differentially Private Data Publishing and Analysis: A Survey	1	3	1	1
+Bayesian Nonparametric Relational Topic Model through Dependent Gamma Processes	3	4	2	3
+Query Expansion with Enriched User Profiles for Personalized Search Utilizing Folksonomy Data	0	2	3	2
+Collaboratively Training Sentiment Classifiers for Multiple Domains	3	5	3	1
+Crowdsourced Coverage as a Service: Two-Level Composition of Sensor Cloud Services	4	2	4	2
+Personal Web Revisitation by Context and Content Keywords with Relevance Feedback	3	0	1	1
+Local Suppression and Splitting Techniques for Privacy Preserving Publication of Trajectories	0	4	1	3
+Energy-Efficient Query Processing in Web Search Engines	0	2	2	2
+Sparse Poisson Latent Block Model for Document Clustering	4	1	3	1
+Enhancing Binary Classification by Modeling Uncertain Boundary in Three-Way Decisions	3	0	3	1
+Engagement and Popularity Dynamics of YouTube Videos and Sensitivity to Meta-Data	3	2	1	3
+Human-Powered Data Cleaning for Probabilistic Reachability Queries on Uncertain Graphs	4	4	1	5
+Profiling Entities over Time in the Presence of Unreliable Sources	2	2	1	3
+On Spectral Analysis of Signed and Dispute Graphs: Application to Community Structure	1	4	6	1
+Discovering Newsworthy Themes from Sequenced Data: A Step Towards Computational Journalism	1	4	1	1
+Online Transfer Learning with Multiple Homogeneous or Heterogeneous Sources	2	4	1	1
+Searching Trajectories by Regions of Interest	4	1	2	2
+A Scalable Data Chunk Similarity Based Compression Approach for Efficient Big Sensing Data Processing on Cloud	3	2	8	1
+R<sc>a</sc>P<sc>are</sc>: A Generic Strategy for Cold-Start Rating Prediction Problem	3	3	3	2
+Probase+: Inferring Missing Links in Conceptual Taxonomies	0	4	2	3
+Keyword Search over Distributed Graphs with Compressed Signature	0	6	0	4
+Online Multi-Task Learning Framework for Ensemble Forecasting	8	2	1	2
+Multi-Behavioral Sequential Prediction with Recurrent Log-Bilinear Model	2	2	2	1
+SAP: Improving Continuous Top-K Queries Over Streaming Data	2	3	3	1
+Modeling the Evolution of Users¡¯ Preferences and Social Links in Social Networking Services	2	4	1	2
+Efficient Top-k Dominating Computation on Massive Data	4	0	3	3
+Modeling and Learning Distributed Word Representation with Metadata for Question Retrieval	2	3	4	3
+Search Rank Fraud and Malware Detection in Google Play	0	2	1	4
+A Unified Framework for Metric Transfer Learning	1	3	4	1
+Analyzing Sentiments in One Go: A Supervised Joint Topic Modeling Approach	0	4	3	2
+Data-Driven Answer Selection in Community QA Systems	1	6	1	0
+User Vitality Ranking and Prediction in Social Networking Services: A Dynamic Network Perspective	5	6	3	1
+A Web Services Discovery Approach Based on Mining Underlying Interface Semantics	1	5	3	2
+Spectral Ensemble Clustering via Weighted K-Means: Theoretical and Practical Evidence	2	5	2	1
+Multimodal KB Harvesting for Emerging Spatial Entities	1	4	2	0
+Efficient Algorithms for the Identification of Top-$k$ Structural Hole Spanners in Large Social Networks	0	4	2	3
+A Systematic Approach to Clustering Whole Trajectories of Mobile Objects in Road Networks	0	4	2	3
+Dynamic Facet Ordering for Faceted Product Search Engines	2	1	2	4
+Learning on Big Graph: Label Inference and Regularization with Anchor Hierarchy	2	3	4	2
+Efficient Processing of Skyline Queries Using MapReduce	2	8	2	0
+Knowledge Base Semantic Integration Using Crowdsourcing	3	6	1	1
+An Efficient Indexing Method for Skyline Computations with Partially Ordered Domains	4	2	1	4
+Continuous Top-k Monitoring on Document Streams	1	0	1	2
+Evolutionary Nonnegative Matrix Factorization Algorithms for Community Detection in Dynamic Networks	4	4	1	2
+Feature Constrained Multi-Task Learning Models for Spatiotemporal Event Forecasting	1	1	2	2
+Bag-of-Discriminative-Words (BoDW) Representation via Topic Modeling	3	0	2	3
+Malevolent Activity Detection with Hypergraph-Based Models	1	4	1	3
+Bridging Feature Selection and Extraction: Compound Feature Generation	4	1	1	1
+Using Geodesic Space Density Gradients for Network Community Detection	4	3	2	2
+gMark: Schema-Driven Generation of Graphs and Queries	2	2	0	1
+Efficient Sub-Window Nearest Neighbor Search on Matrix	1	5	4	2
+SSE: Semantically Smooth Embedding for Knowledge Graphs	2	2	4	1
+A Novel Cost-Based Model for Data Repairing	2	6	2	6
+Trajectory Community Discovery and Recommendation by Multi-Source Diffusion Modeling	2	4	6	0
+A Generic Method for Accelerating LSH-Based Similarity Join Processing	1	4	0	2
+Comparative Relation Generative Model	5	3	3	2
+Enabling Kernel-Based Attribute-Aware Matrix Factorization for Rating Prediction	1	3	0	1
+Extracting Kernel Dataset from Big Sensory Data in Wireless Sensor Networks	5	2	1	3
+FORWARD: A Model for FOrecasting Reservoir WAteR Dynamics Using Spatial Bayesian Network (SpaBN)	3	0	4	2
+Feature Selection by Maximizing Independent Classification Information	4	0	1	1
+Signature-Based Trajectory Similarity Join	2	4	4	2
+Advanced Block Nested Loop Join for Extending SSD Lifetime	3	2	2	4
+Uncertainty Quantification in Mathematics-Embedded Ontologies Using Stochastic Reduced Order Model	3	0	1	0
+Efficient Metric Indexing for Similarity Search and Similarity Joins	1	2	2	1
+Enumeration of Maximal Cliques from an Uncertain Graph	1	4	1	0
+Network Motif Discovery: A GPU Approach	4	3	3	3
+Understand Short Texts by Harvesting and Analyzing Semantic Knowledge	3	4	2	3
+Bump Hunting in the Dark: Local Discrepancy Maximization on Graphs	2	7	4	3
+Influence Maximization in Trajectory Databases	3	8	0	4
+KDE-Track: An Efficient Dynamic Density Estimator for Data Streams	4	2	2	2
+A Novel and Fast SimRank Algorithm	3	3	2	2
+Scalable Iterative Classification for Sanitizing Large-Scale Datasets	3	3	1	4
+Reachability Querying: Can It Be Even Faster?	2	5	0	2
+Metric Similarity Joins Using MapReduce	1	3	0	2
+A Proactive Workflow Model for Healthcare Operation and Management	1	7	0	2
+Probabilistic Keys	1	1	0	1
+Enhancing Team Composition in Professional Networks: Problem Definitions and Fast Solutions	0	4	4	0
+Efficient Distance-Aware Influence Maximization in Geo-Social Networks	3	4	1	1
+New EIC Editorial	0	0	0	0
+Special Section on the International Conference on Data Engineering 2015	0	0	2	0
+Unsupervised Visual Hashing with Semantic Assistant for Content-Based Image Retrieval	2	1	2	1
+Stochastic Gradient Made Stable: A Manifold Propagation Approach for Large-Scale Optimization	4	1	3	1
+Filtering Out Infrequent Behavior from Business Process Event Logs	6	0	0	5
+Efficient Pattern-Based Aggregation on Sequence Data	7	0	4	3
+Semantic Bootstrapping: A Theoretical Perspective	5	2	5	4
+Causal Decision Trees	4	1	0	1
+Query Reorganization Algorithms for Efficient Boolean Information Filtering	3	3	2	7
+An Architecture Combining IMS-LD and Web Services for Flexible Data-Transfer in CSCL	1	1	2	2
+Integrating Model-Driven and Data-Driven Techniques for Analyzing Learning Behaviors in Open-Ended Learning Environments	0	3	1	2
+Adaptive Social Learning Based on Crowdsourcing	0	5	2	7
+Learning How to Construct Models of Dynamic Systems: An Initial Evaluation of the Dragoon Intelligent Tutoring System	2	0	1	1
+CMX: The Effects of an Educational MMORPG on Learning and Teaching Computer Programming	2	1	5	8
+Specialized Intervention Using Tablet Devices for Communication Deficits in Children with Autism Spectrum Disorders	3	0	1	1
+Automatic Chinese Factual Question Generation	3	0	2	2
+A Fuzzy Group Decision Making Model for Ordinal Peer Assessment	4	1	2	0
+Investigating the Impact of Gaming Habits, Gender, and Age on the Effectiveness of an Educational Video Game: An Exploratory Study	0	1	5	3
+Cognitive Diffusion Model: Facilitating EFL Learning in an Authentic Environment	3	3	5	3
+Editorial: A Message from the Editorial Team and an Introduction to the April-June 2017 issue	0	0	0	0
+Constructing a User-Friendly and Smart Ubiquitous Personalized Learning Environment by Using a Context-Aware Mechanism	1	0	0	3
+Contextual Markup and Mining in Digital Games for Science Learning: Connecting Player Behaviors to Learning Goals	0	1	2	3
+Perceiving Learning at a Glance: A Systematic Literature Review of Learning Dashboard Research	3	0	2	1
+Privacy-Preserving Learning Analytics: Challenges and Techniques	2	2	3	2
+Predicting Student Performance from LMS Data: A Comparison of 17 Blended Courses Using Moodle LMS	1	5	0	4
+Widget, Widget on the Wall, Am I Performing Well at All?	1	4	7	2
+A Novel Web-Based Approach for Visualization and Inspection of Reading Difficulties on University Students	2	1	2	4
+Combining University Student Self-Regulated Learning Indicators and Engagement with Online Learning Events to Predict Academic Performance	3	1	0	2
+Towards Actionable Learning Analytics Using Dispositions	0	1	1	0
+2016 Index IEEE Transactions on Learning Technologies Vol. 9	0	0	1	0
+Editorial: A Message from the Editorial Team and an Introduction to the January-March 2017 Issue	0	0	0	0
+Guest Editorial: Special Section on Learning Analytics	0	0	1	0
+gPhysics¡ªUsing Smart Glasses for Head-Centered, Context-Aware Learning in Physics Experiments	5	4	7	1
+Enhancing Physical Education with Exergames and Wearable Technology	1	5	2	3
+Introducing IoT and Wearable Technologies into Task-Based Language Learning for Young Children	2	2	1	2
+A Methodology to Obtain Learning Effective Laboratories with Learning Management System Integration	4	0	1	5
+Appropriating Quantified Self Technologies to Support Elementary Statistical Teaching and Learning	1	3	1	5
+Representing and Reconciling Personal Data and Experience in a Wearable Technology Gaming Project	2	3	2	3
+Knowledge Construction in Computer Science and Engineering when Learning Through Making	2	0	2	0
+Can You Help Me with My Pitch? Studying a Tool for Real-Time Automated Feedback	0	2	2	1
+EIC Editorial	0	0	0	0
+Guest Editorial: Special Section on Learning through Wearable Technologies and the Internet of Things	0	0	1	0
+Analyzing the Impact of Using Optional Activities in Self-Regulated Learning	1	4	0	5
+Agent Supported Serious Game Environment	1	0	2	1
+Designing a Secure Exam Management System (SEMS) for M-Learning Environments	1	0	0	2
+Early Prediction of Student Profiles Based on Performance and Gaming Preferences	0	6	2	3
+Supporting Semantic Annotation of Educational Content by Automatic Extraction of Hierarchical Domain Relationships	6	2	1	3
+BH-ShaDe: A Software Tool that Assists Architecture Students in the Ill-Structured Task of Housing Design	0	2	1	4
+A Debate and Decision-Making Tool for Enhanced Learning	0	1	0	2
+Editorial: A Message from the Editorial Team and an Introduction to the July-September 2016 Issue	0	0	0	0
+An Approach Based on Social Network Analysis Applied to a Collaborative Learning Experience	1	1	3	1
+Don't Be a Stranger-Designing a Digital Intercultural Sensitivity Training Tool that is Culture General	2	4	3	4
+VirTUal remoTe labORatories Management System (TUTORES): Using Cloud Computing to Acquire University Practical Skills	5	4	5	1
+Novel Approach to Facilitating Tradeoff Multi-Objective Grouping Optimization	4	0	4	0
+Item Response Theory for Peer Assessment	0	0	3	4
+Creating Engaging Online Learning Material with the JSAV JavaScript Algorithm Visualization Library	1	2	2	2
+<italic>ToothPIC</italic>: An Interactive Application for Teaching Oral Anatomy	1	0	0	3
+An Investigation of a Two-Tier Test Strategy in a University Calculus Course: Causes versus Consequences	0	1	1	0
+A Contextualized System for Supporting Active Learning	2	1	2	1
+In Memoriam: Erik Duval 1965-2016	0	0	0	0
+In Memoriam: Martin Wolpers, PhD 1969-2016	0	0	0	0
+Editorial: A Message from the Editorial Team and an Introduction to the April-June 2016 Issue	0	0	0	0
+Virtual Engineering Sciences Learning Lab: Giving STEM Education a Second Life	2	1	0	4
+Learning Object Recommendations for Teachers Based On Elicited ICT Competence Profiles	0	0	4	1
+Reducing Mistakes in Mathematics Problem Solving through Behavioral Training with a Tablet Computer	0	4	5	4
+Low Cost Ubiquitous Context-Aware Wireless Communications Laboratory for Undergraduate Students	2	0	1	2
+Development and Evaluation of an Active Learning Support System for Context-Aware Ubiquitous Learning	4	0	0	2
+Investigating Engagement with In-Video Quiz Questions in a Programming Course	0	6	0	3
+Support for Augmented Reality Simulation Systems: The Effects of Scaffolding on Learning Outcomes and Behavior Patterns	1	0	4	4
+Flipping the Flipped Classroom: A Study of the Effectiveness of Video Lectures Versus Constructivist Exploration Using Tangible User Interfaces	0	7	3	6
+2015 Index IEEE Transactions on Learning Technologies Vol. 8	1	0	1	3
+2015 Reviewers List&#x002A;	0	0	0	0
+Editorial: A Message from the Editorial Team and an Introduction to the January-March 2016 Issue	0	0	0	0
+EJS, JIL Server, and LabVIEW: An Architecture for Rapid Development of Remote Labs	3	0	1	3
+Characterizing Learning Mediated by Mobile Technologies: A Cultural-Historical Activity Theoretical Analysis	1	1	2	0
+Impact on Student Motivation by Using a QR-Based U-Learning Material Production System to Create Authentic Learning Experiences	2	3	1	8
+A Hybrid Trust-Based Recommender System for Online Communities of Practice	1	0	0	0
+Teaching Cybersecurity Using the Cloud	0	5	4	1
+Evaluating Recommender Systems for Technology Enhanced Learning: A Quantitative Survey	2	0	1	2
+Editorial: A Message from the Editorial Team and an Introduction to the October-December 2015 Issue	0	0	0	0
+Creating Usage Context-Based Object Similarities to Boost Recommender Systems in Technology Enhanced Learning	0	2	3	0
+LaboREM&#x2014;A Remote Laboratory for Game-Like Training in Electronics	1	0	2	3
+A Flexible and Configurable Architecture for Automatic Control Remote Laboratories	2	5	3	0
+Implementation and Evaluation of Digital E-Lecture Annotation in Learning Groups to Foster Active Learning	0	2	0	2
+Uncertainty Representation in Visualizations of Learning Analytics for Learners: Current Approaches and Opportunities	2	3	1	4
+Increasing Students&#x2019; Awareness of Their Behavior in Online Learning Environments with Visualizations and Achievement Badges	1	4	3	5
+Editorial: A Message from the Editorial Team and an Introduction to the July-September 2015 Issue	0	0	0	0
+A Web-Based Visualization and Animation Platform for Digital Logic Design	1	0	4	1
+Constructing Interpretative Views of Learners&#x2019; Interaction Behavior in an Open Learner Model	1	5	0	2
+MTFeedback: Providing Notifications to Enhance Teacher Awareness of Small Group Work in the Classroom	0	5	3	5
+A Self-Adaptive Multi-Agent System Approach for Collaborative Mobile Learning	1	1	2	1
+Dynamic Group Formation as an Approach to Collaborative Learning Support	2	1	2	1
+Measuring and Visualizing Students&#x2019; Behavioral Engagement in Writing Activities	1	1	3	2
+Welcome to the April-June 2015 Issue of the <italic>IEEE Transactions on Learning Technologies</italic> (<italic>TLT</italic>)	0	0	1	0
+Employing the TPACK Framework for Researcher-Teacher Co-Design of a Mobile-Assisted Seamless Language Learning Environment	6	1	0	1
+Four Stages of Research on the Educational Use of Ubiquitous Computing	3	0	3	1
+A Tailorable Infrastructure to Enhance Mobile Seamless Learning	2	4	0	2
+Harnessing Technology for Promoting Undergraduate Art Education: A Novel Model that Streamlines Learning between Classroom, Museum, and Home	0	2	1	3
+Supporting Teacher Orchestration in Ubiquitous Learning Environments: A Study in Primary Education	0	0	1	1
+Individualization for Education at Scale: MIIC Design and Preliminary Evaluation	1	3	0	3
+Context Becomes Content: Sensor Data for Computer-Supported Reflective Learning	1	2	5	1
+Rethinking the Impact of Activity Design on a Mobile Learning Trail: The Missing Dimension of the Physical Affordances	0	2	5	3
+Exploring Students&#x2019; Progression in an Inquiry Science Curriculum Enabled by Mobile Learning	0	0	5	2
+Towards User Support in Ubiquitous Learning Systems	1	3	0	2
+Detecting Mobile Malicious Webpages in Real Time	0	6	1	2
+Tracking People in Highly Dynamic Industrial Environments	1	4	0	1
+CBS: Community-Based Bus System as Routing Backbone for Vehicular Ad Hoc Networks	7	4	1	1
+Offloading in HetNet: A Coordination of Interference Mitigation, User Association, and Resource Allocation	6	0	2	2
+Reliable Physical-Layer Network Coding Supporting Real Applications	0	2	2	5
+Opportunistic Network Decoupling with Virtual Full-Duplex Operation in Multi-Source Interfering Relay Networks	4	1	0	1
+Analysis of Dynamic Channel Bonding in Dense Networks of WLANs	6	0	1	3
+Novel Design on Multiple Channel Sensing for Partially Observable Cognitive Radio Networks	6	0	3	1
+Low-Cost Collaborative Mobile Charging for Large-Scale Wireless Sensor Networks	3	7	1	3
+Context-Aware System Design for Remote Health Monitoring: An Application to Continuous Edema Assessment	1	2	1	2
+Modeling Buffer Starvations of Video Streaming in Cellular Networks with Large-Scale Measurement of User Behavior	5	3	3	4
+Online Task Assignment for Crowdsensing in Predictable Mobile Social Networks	5	4	3	0
+A Mean Field Analysis of CSMA/CA Throughput	5	2	0	2
+A Proxy-Based Collaboration System to Minimize Content Download Time and Energy Consumption	1	2	1	3
+Fine-Grained Abnormal Driving Behaviors Detection and Identification with Smartphones	1	5	2	3
+Content-Aware Network Coding Over Device-to-Device Networks	1	3	0	5
+On Timing Reacquisition and Enhanced Primary Synchronization Signal (ePSS) Design for Energy Efficient 3GPP LTE MTC	2	2	3	1
+Wi-Fi Seeker: A link and Load Aware AP Selection Algorithm	1	0	1	4
+A Joint Indoor WLAN Localization and Outlier Detection Scheme Using LASSO and Elastic-Net Optimization Techniques	3	2	0	1
+Worker-Contributed Data Utility Measurement for Visual Crowdsensing Systems	4	4	3	0
+Network-Assisted Outband D2D-Clustering in 5G Cellular Networks: Theory and Practice	2	4	5	1
+Contradiction Based Gray-Hole Attack Minimization for Ad-Hoc Networks	1	1	0	0
+Using Wireless Link Dynamics to Extract a Secret Key in Vehicular Scenarios	3	2	0	2
+Joint Cell Zooming and Channel Allocation Using C-SAP for Large Action Sets	8	3	0	0
+It Can Drain Out Your Energy: An Energy-Saving Mechanism Against Packet Overhearing in High Traffic Wireless LANs	2	2	1	2
+Sparsity Based Efficient Cross-Correlation Techniques in Sensor Networks	4	2	6	2
+On the Competition Among Small Cell Wireless Operators with Large Scale Deployments	2	0	2	2
+Economic Analysis of Crowdsourced Wireless Community Networks	0	6	1	2
+Load-Balanced Opportunistic Routing for Duty-Cycled Wireless Sensor Networks	7	1	1	5
+Maximum Lifetime Combined Barrier-Coverage of Weak Static Sensors and Strong Mobile Sensors	3	3	2	3
+General Framework for Network Throughput Maximization in Sink-Based Energy Harvesting Wireless Sensor Networks	1	3	2	1
+Dual-Scheduler Design for C/U-Plane Decoupled Railway Wireless Networks	3	5	0	0
+Delay Analysis and Routing for Two-Dimensional VANETs Using Carry-and-Forward Mechanism	7	1	1	1
+Indoor Localization and Automatic Fingerprint Update with Altered AP Signals	4	3	0	1
+THEMIS: Collusion-Resistant and Fair Pricing Spectrum Auction Under Dynamic Supply	0	5	1	5
+E-MICE: Energy-Efficient Concurrent Exploitation of Multiple Wi-Fi Radios	6	0	6	2
+Optimal Device-Aware Caching	4	2	0	1
+Rapid, User-Transparent, and Trustworthy Device Pairing for D2D-Enabled Mobile Crowdsourcing	4	2	1	1
+Adaptive Optimal Stochastic Control of Delay-Tolerant Networks	4	0	1	2
+Neighbor Discovery and Rendezvous Maintenance with Extended Quorum Systems for Mobile Applications	2	6	1	3
+Activity Probability-Based Performance Analysis and Contention Control for IEEE 802.11 WLANs	0	5	3	5
+A Study on Application-Aware Scheduling in Wireless Networks	3	1	2	1
+Smartphone-Based Real Time Vehicle Tracking in Indoor Parking Structures	0	8	0	2
+Cost-Effective Mapping between Wireless Body Area Networks and Cloud Service Providers Based on Multi-Stage Bargaining	2	4	3	1
+AT-MAC: Adaptive MAC-Frame Payload Tuning for Reliable Communication in Wireless Body Area Networks	3	3	3	3
+Battery-Aware Mobile Data Service	2	2	2	1
+An Adaptive Bayesian System for Context-Aware Data Fusion in Smart Environments	2	1	1	1
+There and Back Again: Detecting Regularity in Human Encounter Communities	2	2	1	4
+Cooperative Wi-Fi Deployment: A One-to-Many Bargaining Framework	1	6	3	2
+Efficient 3G/4G Budget Utilization in Mobile Sensing Applications	1	2	1	6
+FRESH: Push the Limit of D2D Communication Underlaying Cellular Networks	0	2	1	1
+A Distributed Learning Automata Scheme for Spectrum Management in Self-Organized Cognitive Radio Network	7	1	1	1
+Data Analytics for Diagnosing the RF Condition in Self-Organizing Networks	3	0	3	1
+Robust Large-Scale Spectrum Auctions against False-Name Bids	2	3	0	3
+Latency Aware IPv6 Packet Delivery Scheme over IEEE 802.15.4 Based Battery-Free Wireless Sensor Networks	2	2	0	2
+TSRA: An Adaptive Mechanism for Switching between Communication Modes in Full-Duplex Opportunistic Spectrum Access Systems	1	5	2	2
+Learn to Recognise: Exploring Priors of Sparse Face Recognition on Smartphones	7	4	5	2
+GPS-Free Maintenance of A Free-Space-Optical Link Between Two Autonomous Mobiles	3	4	1	2
+Near Optimal Data Gathering in Rechargeable Sensor Networks with a Mobile Sink	3	4	0	0
+How to Download More Data from Neighbors? A Metric for D2D Data Offloading Opportunity	1	3	0	5
+Whom to Blame? Automatic Diagnosis of Performance Bottlenecks on Smartphones	1	3	4	5
+Feedback-Free Binning Design for Mobile Wyner-Ziv Video Coding: An Operational Duality between Source Distortion and Channel Capacity	3	8	3	4
+Batch Identification Game Model for Invalid Signatures in Wireless Mobile Networks	4	3	2	1
+INTRI: Contour-Based Trilateration for Indoor Fingerprint-Based Localization	3	2	0	0
+Comments on the Paper ¡°Personal Mobile Radars with Millimeter-Wave Massive Arrays for Indoor Mapping¡±	0	0	1	0
+Spectrum-Energy Efficiency Optimization for Downlink LTE-A for Heterogeneous Networks	7	1	1	2
+Characterizing the Instantaneous Connectivity of Large-Scale Urban Vehicular Networks	2	3	0	1
+ZapDroid: Managing Infrequently Used Applications on Smartphones	1	3	3	4
+A Fine-Grained Indoor Location-Based Social Network	4	1	2	2
+Stability Analysis of Frame Slotted Aloha Protocol	3	4	3	1
+A New Zigzag-Decodable Code with Efficient Repair in Wireless Distributed Storage	5	0	2	0
+Cooperative Source Node Tracking in Non-Line-of-Sight Environments	4	3	1	3
+An RFID Based Smartphone Proximity Absence Alert System	6	8	3	4
+Optimal Sleep-Wake Scheduling for Energy Harvesting Smart Mobile Devices	4	6	0	5
+A Reliable and Efficient Distributed Service Composition Approach in Pervasive Environments	3	1	2	2
+Mobility Aware Virtual Network Embedding	3	0	2	4
+Channel Selection Algorithm for Cognitive Radio Networks with Heavy-Tailed Idle Times	0	5	3	1
+MoZo: A Moving Zone Based Routing Protocol Using Pure V2V Communication in VANETs	1	2	1	1
+On Missing Tag Detection in Multiple-Group Multiple-Region RFID Systems	2	4	1	1
+Exploring Tag Distribution in Multi-Reader RFID Systems	3	4	3	2
+Practical Opportunistic Data Collection in Wireless Sensor Networks with Mobile Sinks	0	5	2	3
+Harnessing Encrypted Data in Cloud for Secure and Efficient Mobile Image Sharing	1	5	0	4
+Recover Corrupted Data in Sensor Networks: A Matrix Completion Solution	1	4	2	3
+Optimal Cooperative Content Caching and Delivery Policy for Heterogeneous Cellular Networks	2	3	0	1
+Measuring and Understanding RRC State Machine Optimization in Light of Recent Advancements	3	6	1	4
+Pothole in the Dark: Perceiving Pothole Profiles with Participatory Urban Vehicles	3	2	3	0
+Editorial: A Message from the Incoming Editor-in-Chief	0	0	0	0
+Maximizing Charging Satisfaction of Smartphone Users via Wireless Energy Transfer	5	6	3	5
+Montage: Combine Frames with Movement Continuity for Realtime Multi-User Tracking	1	3	0	1
+RSS-Based Ranging by Leveraging Frequency Diversity to Distinguish the Multiple Radio Paths	7	6	0	5
+Spectrum-Aware Anypath Routing in Multi-Hop Cognitive Radio Networks	2	1	2	1
+Empowering Device-to-Device Networks with Cross-Link Interference Management	3	2	0	5
+Propagation- and Mobility-Aware D2D Social Content Replication	0	4	3	1
+Securing the Backpressure Algorithm for Wireless Networks	3	3	0	3
+Multi-Channel Medium Access without Control Channels: A Full Duplex MAC Design	0	6	1	3
+ShakeUnlock: Securely Transfer Authentication States Between Mobile Devices	3	3	2	0
+Utility Maximization for Multimedia Data Dissemination in Large-Scale VANETs	2	4	1	0
+Analysis of Multi-Hop Probabilistic Forwarding for Vehicular Safety Applications on Highways	3	1	2	2
+Priority-Aware FEC Coding for High-Definition Mobile Video Delivery Using TCP	4	3	0	0
+Optimized Upload Strategies for Live Scalable Video Transmission from Mobile Devices	5	4	2	4
+Astro: Auto-Generation of Synthetic Traces Using Scaling Pattern Recognition for MPI Workloads	1	1	0	2
+CLAP: Component-Level Approximate Processing for Low Tail Latency and High Result Accuracy in Cloud Online Services	0	2	0	0
+A Fuzzy Approach Based on Heterogeneous Metrics for Scaling Out Public Clouds	4	1	2	2
+<sc>ATOM</sc>: Efficient Tracking, Monitoring, and Orchestration of Cloud Resources	3	5	3	1
+Cooper: Expedite Batch Data Dissemination in Computer Clusters with Coded Gossips	0	4	3	2
+Evaluating Scalable Distributed Erlang for Scalability and Reliability	0	7	2	4
+On the Implication of NTC versus Dark Silicon on Emerging Scale-Out Workloads: The Multi-Core Architecture Perspective	4	4	5	1
+Exploiting Locality in Sparse Matrix-Matrix Multiplication on Many-Core Architectures	3	0	4	0
+Design Space Exploration of 2-D Processor Array Architectures for Similarity Distance Computation	2	1	1	2
+A Load Balancing and Multi-Tenancy Oriented Data Center Virtualization Framework	5	1	4	2
+Dynamic Associativity Management in Tiled CMPs by Runtime Adaptation of Fellow Sets	4	0	1	2
+An Alternating Direction Method Approach to Cloud Traffic Management	0	2	0	0
+TLB-Based Temporality-Aware Classification in CMPs with Multilevel TLBs	1	1	3	0
+GPU Implementation of Bitplane Coding with Parallel Coefficient Processing for High Performance Image Compression	3	0	1	2
+Live VM Migration Under Time-Constraints in Share-Nothing IaaS-Clouds	1	6	7	5
+Resource Availability Prediction in Distributed Systems: An Approach for Modeling Non-Stationary Transition Probabilities	3	2	1	1
+Querying Web-Scale Knowledge Graphs Through Effective Pruning of Search Space	3	3	1	2
+Routing and Fault Tolerance in Z-Fat Tree	2	4	1	2
+Piccolo: A Fast and Efficient Rollback System for Virtual Machine Clusters	1	3	3	2
+Managing Resource Limitation of Best-Effort HTM	3	2	0	2
+Simulating MPI Applications: The SMPI Approach	0	2	2	0
+Oasis: Scaling Out Datacenter Sustainably and Economically	0	2	0	3
+APPLES: Efficiently Handling Spin-lock Synchronization on Virtualized Platforms	6	1	7	2
+Optimization of Fusion Kernels on Accelerators with Indirect or Strided Memory Access Patterns	3	2	9	1
+Task Scheduling Techniques for Asymmetric Multi-Core Systems	0	3	1	3
+Scalable Single Source Shortest Path Algorithms for Massively Parallel Systems	0	5	2	0
+Projective Networks: Topologies for Large Parallel Computer Systems	0	0	3	0
+Leader Set Selection for Low-Latency Geo-Replicated State Machine	0	2	3	3
+DGLB: Distributed Stochastic Geographical Load Balancing over Cloud Networks	4	0	0	2
+Cost-Aware Region-Level Data Placement in Multi-Tiered Parallel I/O Systems	2	2	4	2
+Stochastic Resource Provisioning for Containerized Multi-Tier Web Services in Clouds	1	3	5	1
+Lazy Irrevocability for Best-Effort Transactional Memory Systems	5	5	1	3
+Distributed Mining of Contrast Patterns	1	2	2	1
+Sharing-Aware Online Virtual Machine Packing in Heterogeneous Resource Clouds	2	2	2	7
+Workload Consolidation for Cloud Data Centers with Guaranteed QoS Using Request Reneging	0	5	1	4
+Response-Time Analysis in Hierarchically-Scheduled Time-Partitioned Distributed Systems	3	0	0	3
+FoToNoC: A Folded Torus-Like Network-on-Chip Based Many-Core Systems-on-Chip in the Dark Silicon Era	1	1	11	1
+Parallelizing Exact and Approximate String Matching via Inclusive Scan on a GPU	3	6	3	2
+Lightweight Virtual Memory Support for Zero-Copy Sharing of Pointer-Rich Data Structures in Heterogeneous Embedded SoCs	2	1	2	0
+Asynchronous Non-Generational Model to Parallelize Metaheuristics: A Bioinformatics Case Study	1	1	1	0
+VLCcube: A VLC Enabled Hybrid Network Structure for Data Centers	1	2	1	2
+Dynamic Configuration of Partitioning in Spark Applications	3	5	4	2
+Binary-Tree Based Estimation of File Requests for Efficient Data Replication	3	2	1	2
+Exploring Efficient Hardware Support for Applications with Irregular Memory Patterns on Multinode Manycore Architectures	0	3	4	2
+iShuffle: Improving Hadoop Performance with Shuffle-on-Write	1	2	3	2
+Ephemeral Content Popularity at the Edge and Implications for On-Demand Caching	1	4	4	5
+AppBooster: Boosting the Performance of Interactive Mobile Applications with Computation Offloading and Parameter Tuning	2	2	2	0
+Understanding Big Data Analytics Workloads on Modern Processors	1	4	4	3
+Energy-Aware Scheduling of Embarrassingly Parallel Jobs and Resource Allocation in Cloud	2	6	2	4
+Traffic-Aware Geo-Distributed Big Data Analytics with Predictable Job Completion Time	2	4	2	3
+Parallel Deep Neural Network Training for Big Data on Blue Gene/Q	2	2	4	1
+Leveraging Adaptive I/O to Optimize Collective Data Shuffling Patterns for Big Data Analytics	6	2	3	3
+Repair Tree: Fast Repair for Single Failure in Erasure-Coded Distributed Storage Systems	3	2	3	1
+Optimizing Cloud-Service Performance: Efficient Resource Provisioning via Optimal Workload Allocation	8	0	0	0
+SACAT: Streaming-Aware Conflict-Avoiding Thrashing-Resistant GPGPU Cache Management Scheme	2	0	1	3
+An Efficient Protection Technique for Last Level STT-RAM Caches in Multi-Core Processors	1	1	2	1
+An Incrementally Scalable and Cost-Efficient Interconnection Structure for Data Centers	3	1	0	2
+On the Heterogeneity Bias of Cost Matrices for Assessing Scheduling Algorithms	2	3	4	2
+A High Performance Block Eigensolver for Nuclear Configuration Interaction Calculations	0	8	7	1
+Real-Time GPU Resource Management with Loadable Kernel Modules	2	0	2	3
+Scalable Adaptive NUMA-Aware Lock	3	3	1	3
+A Dynamic Approach for Workload Partitioning on GPU Architectures	1	0	3	0
+Towards Long-View Computing Load Balancing in Cluster Storage Systems	4	5	0	3
+Solving k-Set Agreement Using Failure Detectors in Unknown Dynamic Networks	2	4	2	0
+Global EDF Schedulability Analysis for Parallel Tasks on Multi-Core Platforms	3	3	5	4
+OpenCL-Based FPGA-Platform for Stencil Computation and Its Optimization Methodology	3	3	1	1
+Diamond Tiling: Tiling Techniques to Maximize Parallelism for Stencil Computations	1	3	1	5
+Preserving Privacy with Probabilistic Indistinguishability in Weighted Social Networks	1	3	1	1
+Renewable Energy Pricing Driven Scheduling in Distributed Smart Community Systems	5	1	0	3
+Large-Scale VM Placement with Disk Anti-Colocation Constraints Using Hierarchical Decomposition and Mixed Integer Programming	3	4	0	3
+The Unicorn Runtime: Efficient Distributed Shared Memory Programming for Hybrid CPU-GPU Clusters	5	4	4	3
+MRCP-RM: A Technique for Resource Allocation and Scheduling of MapReduce Jobs with Deadlines	6	0	11	8
+Semi-External Memory Sparse Matrix Multiplication for Billion-Node Graphs	1	4	5	1
+iASK: A Distributed Q&A System Incorporating Social Community and Global Collective Intelligence	0	3	3	3
+RAMSYS: Resource-Aware Asynchronous Data Transfer with Multicore SYStems	2	1	1	1
+Securing Coding-Based Cloud Storage Against Pollution Attacks	4	3	2	6
+CloudScout: A Non-Intrusive Approach to Service Dependency Discovery	3	3	2	4
+Algorithms for Balanced Graph Colorings with Applications in Parallel Computing	6	5	2	4
+Path Setup for Hybrid NoC Architectures Exploiting Flooding and Standby	2	2	0	0
+A Self-Routing on-Chip Network	5	0	2	5
+Efficient Resource Constrained Scheduling Using Parallel Two-Phase Branch-and-Bound Heuristics	0	0	1	4
+Beehive: Erasure Codes for Fixing Multiple Failures in Distributed Storage Systems	1	3	3	2
+Energy Efficiency for Clustered Heterogeneous Multicores	1	2	3	3
+Survey on Real-Time Networks-on-Chip	0	0	6	0
+Privacy-Aware Scheduling SaaS in High Performance Computing Environments	5	3	3	2
+Feedback-Control & Queueing Theory-Based Resource Management for Streaming Applications	1	3	2	0
+PLAN: Joint Policy- and Network-Aware VM Management for Cloud Data Centers	2	3	0	3
+Edge Provisioning with Flexible Server Placement	1	4	1	2
+Dynamic Service Placement for Mobile Micro-Clouds with Predicted Future Costs	6	4	0	2
+A Parallel Random Forest Algorithm for Big Data in a Spark Cloud Computing Environment	7	1	2	0
+Semi-Online Algorithms for Computational Task Offloading with Communication Delay	4	7	3	2
+Application Scheduling, Placement, and Routing for Power Efficiency in Cloud Data Centers	0	5	0	2
+Hybrid Energy Storage with Supercapacitor for Cost-Efficient Data Center Power Shaving and Capping	1	4	1	1
+Design and Implementation of a Communication-Optimal Classifier for Distributed Kernel Support Vector Machines	4	2	3	1
+New Model-Based Methods and Algorithms for Performance and Energy Optimization of Data Parallel Applications on Homogeneous Multicore Clusters	2	4	5	2
+ExCCC-DCN: A Highly Scalable, Cost-Effective and Energy-Efficient Data Center Structure	2	2	1	1
+Building an Efficient Put-Intensive Key-Value Store with Skip-Tree	0	3	1	1
+Optimal Symbiosis and Fair Scheduling in Shared Cache	2	0	2	3
+Optimizing Graph Processing on GPUs	0	2	2	1
+GroupTrust: Dependable Trust Management	1	8	2	4
+A Framework for Evaluating the Results of the SZZ Approach for Identifying Bug-Introducing Changes	4	5	0	7
+A Dissection of the Test-Driven Development Process: Does It Really Matter to Test-First or to Test-Last?	1	5	1	3
+A Feature-Based Classification of Model Repair Approaches	1	1	2	0
+Supporting Change Impact Analysis Using a Recommendation System: An Industrial Case Study in a Safety-Critical Context	1	4	4	3
+Keyword Search for Building Service-Based Systems	2	2	1	4
+The Value of Exact Analysis in Requirements Selection	3	3	1	1
+Automated Steering of Model-Based Test Oracles to Admit Real Program Behaviors	4	1	1	3
+A Taxonomy and Qualitative Comparison of Program Analysis Techniques for Security Assessment of Android Software	0	2	0	1
+Online Reliability Prediction via Motifs-Based Dynamic Bayesian Networks for Service-Oriented Systems	2	3	0	0
+A System for Profiling and Monitoring Database Access Patterns by Application Programs for Anomaly Detection	9	4	0	5
+The Use of Summation to Aggregate Software Metrics Hinders the Performance of Defect Prediction Models	2	3	1	4
+Approaches to Co-Evolution of Metamodels and Models: A Survey	0	4	1	1
+Self-Adaptive and Online QoS Modeling for Cloud-Based Software Services	4	5	6	3
+Model-Based Self-Aware Performance and Resource Management Using the Descartes Modeling Language	1	4	1	3
+An Enhanced Bailout Protocol for Mixed Criticality Embedded Software	4	1	1	1
+Mining Sequences of Developer Interactions in Visual Studio for Usage Smells	2	2	0	5
+Efficient Dynamic Updates of Distributed Components Through Version Consistency	0	1	2	3
+Test Oracle Strategies for Model-Based Testing	3	2	0	2
+An Improved SDA Based Defect Prediction Framework for Both Within-Project and Cross-Project Class-Imbalance Problems	2	5	1	2
+Improving Automated Bug Triaging with Specialized Topic Model	0	7	3	2
+Automating Live Update for Generic Server Programs	1	0	8	1
+Dependence Guided Symbolic Execution	4	3	1	3
+CACheck: Detecting and Repairing Cell Arrays in Spreadsheets	2	1	1	3
+Improving Timeliness and Visibility in Publishing Software Engineering Research	0	0	0	0
+How Social and Communication Channels Shape and Challenge a Participatory Culture in Software Development	1	2	2	0
+A Study of Causes and Consequences of Client-Side JavaScript Bugs	3	2	0	3
+Automated Synthesis and Dynamic Analysis of Tradeoff Spaces for Object-Relational Mapping	0	5	1	5
+DECAF: A Platform-Neutral Whole-System Dynamic Binary Analysis Platform	2	4	2	2
+ARENA: An Approach for the Automated Generation of Release Notes	1	1	1	3
+Timed Automata Modeling and Verification for Publish-Subscribe Structures Using Distributed Resources	1	1	2	0
+Nopol: Automatic Repair of Conditional Statement Bugs in Java Programs	3	3	3	2
+Interaction Models and Automated Control under Partial Observable Environments	2	3	1	2
+Process Aspects and Social Dynamics of Contemporary Code Review: Insights from Open Source Development and Industrial Practice at Microsoft	1	3	0	4
+An Empirical Comparison of Model Validation Techniques for Defect Prediction Models	2	4	2	3
+2016 Reviewers List<formula formulatype="inline"><tex Notation="TeX">$^\ast$</tex><mathgraphic graphicformat="GIF" fileref="reviewlist-ieq1-2636498.gif"/></formula>	0	0	0	0
+2016 Index IEEE Transactions on Software Engineering Vol. 42	0	0	1	0
+An Industrial Survey of Safety Evidence Change Impact Analysis Practice	4	3	3	3
+Finding and Evaluating the Performance Impact of Redundant Data Access for Applications that are Developed Using Object-Relational Mapping Frameworks	0	5	1	3
+Engineering Adaptive Model-Driven User Interfaces	1	0	2	2
+Inner Source in Platform-Based Product Engineering	1	2	2	4
+Test Case Prioritization Using Lexicographical Ordering	2	1	0	2
+Parallel Algorithms for Testing Finite State Machines:Generating UIO Sequences	2	0	1	2
+Enhanced Code Conversion Approach for the Integrated Cross-Platform Mobile Development (ICPMD)	4	0	4	2
+Light-Weight, Inter-Procedural and Callback-Aware Resource Leak Detection for Android Apps	1	6	2	1
+Developer Micro Interaction Metrics for Software Defect Prediction	0	1	0	4
+Composite Constant Propagation and its Application to Android Program Analysis	2	6	1	1
+Comments on ¡°Researcher Bias: The Use of Machine Learning in Software Defect Prediction¡±	0	4	2	6
+A Multi-Objective Technique to Prioritize Test Cases	0	3	3	3
+Coverage-Aware Test Database Reduction	3	0	0	3
+A Lightweight System for Detecting and Tolerating Concurrency Bugs	4	1	1	6
+Exploring Mobile End User Development: Existing Use and Design Factors	2	4	0	0
+HYDRA: Massively Compositional Model for Cross-Project Defect Prediction	0	6	4	2
+Software Reliability Analysis Using Weakest Preconditions in Linear Assignment Programs	0	4	1	0
+Probabilistic Interface Automata	1	1	2	3
+The Role of Method Chains and Comments in Software Readability and Comprehension&#x2014;An Experiment	1	2	3	1
+A Survey on Metamorphic Testing	3	0	3	0
+Dynamic Testing for Deadlocks via Constraints	2	1	1	5
+Parallel Performance Problems on Shared-Memory Multicore Systems: Taxonomy and Observation	2	3	2	0
+The Role of Ethnographic Studies in Empirical Software Engineering	4	0	0	2
+Model Checking Software with First Order Logic Specifications Using AIG Solvers	2	1	3	8
+A Survey on Software Fault Localization	3	1	1	2
+Asymptotic Perturbation Bounds for Probabilistic Model Checking with Empirically Determined Probability Parameters	6	4	2	4
+Designing Autonomic Management Systems by Using Reactive Control Techniques	3	3	2	2
+A Game-Theoretic Foundation for the Maximum Software Resilience against Dense Errors	2	5	0	4
+Dynamic Software Project Scheduling through a Proactive-Rescheduling Method	3	0	1	2
+Variability Analysis of Requirements: Considering Behavioral Differences and Reflecting Stakeholders&#x2019; Perspectives	2	2	2	3
+A Two-Component Language for Adaptation: Design, Semantics and Program Analysis	2	3	1	2
+Automatically Recommending Peer Reviewers in Modern Code Review	2	5	4	3
+Dynamic and Automatic Feedback-Based Threshold Adaptation for Code Smell Detection	5	1	3	3
+Enforcing Exception Handling Policies with a Domain-Specific Language	0	5	2	4
+Software Development in Startup Companies: The Greenfield Startup Model	1	3	0	0
+Bidirectional Symbolic Analysis for Effective Branch Testing	1	1	2	7
+Targeted Scrum: Applying Mission Command to Agile Software Development	2	4	4	2
+RELAI Testing: A Technique to Assess and Improve Software Reliability	2	0	2	1
+Effect of Domain Knowledge on Elicitation Effectiveness: An Internally Replicated Controlled Experiment	3	3	3	1
+To Be Optimal or Not in Test-Case Prioritization	3	5	3	1
+Mapping Bug Reports to Relevant Files: A Ranking Model, a Fine-Grained Benchmark, and Feature Evaluation	2	1	2	3
+A Probabilistic Analysis of the Efficiency of Automated Software Testing	2	6	3	5
+Black-Box String Test Case Generation through a Multi-Objective Optimization	6	0	1	2
+An Approach to Checking Consistency between UML Class Model and Its Java Implementation	2	2	1	4
+A Multi-Site Joint Replication of a Design Patterns Experiment Using Moderator Variables to Generalize across Contexts	3	3	4	1
+Evaluating the Effects of Architectural Documentation: A Case Study of a Large Scale Open Source Project	1	4	2	2
+Verifying Synchronization for Atomicity Violation Fixing	6	4	1	5
+Metamorphic Testing for Software Quality Assessment: A Study of Search Engines	1	0	0	2
+Impact of Introducing Domain-Specific Modelling in Software Maintenance: An Industrial Case Study	4	4	0	6
+Detecting, Tracing, and Monitoring Architectural Tactics in Code	3	2	0	0
+Connecting and Serving the Software Engineering Community	0	0	0	0
+Automatic Source Code Summarization of Context for Java Methods	5	6	0	6
+Crossover Designs in Software Engineering Experiments: Benefits and Perils	3	6	1	3
+Probabilistic Model Checking of Regenerative Concurrent Systems	5	4	4	3
+Using Reduced Execution Flow Graph to Identify Library Functions in Binary Code	4	2	1	2
+<italic>SITAR</italic>: GUI Test Script Repair	1	1	1	4
+G<sc>o</sc>P<sc>rime</sc>: A Fully Decentralized Middleware for Utility-Aware Service Assembly	3	2	1	2
+Supporting Self-Adaptation via Quantitative Verification and Sensitivity Analysis at Run Time	3	0	2	2
+Seer: A Lightweight Online Failure Prediction Approach	5	2	1	3
+Supporting Scope Tracking and Visualization for Very Large-Scale Requirements Engineering-Utilizing FSC+, Decision Patterns, and Atomic Decision Visualizations	2	0	0	6
+A Tool-Supported Methodology for Validation and Refinement of Early-Stage Domain Models	3	3	1	2
+2015 Reviewers List<formula formulatype="inline"><tex Notation="TeX">$^\ast$</tex> <mathgraphic graphicformat="GIF" fileref="Reviewerslist-ieq1-2507218.gif"/></formula>	0	0	0	0
+Editorial: Journal-First Publication for the Software Engineering Community	0	0	0	0
+An Ontology-Based Product Architecture Derivation Approach	1	4	2	0
+Novel Views of Objects from a Single Image	5	4	0	6
+Uniform Projection for Multi-View Learning	5	0	2	1
+Blind Image Denoising via Dependent Dirichlet Process Tree	3	1	1	0
+Characterizing and Discovering Spatiotemporal Social Contact Patterns for Healthcare	1	3	2	1
+Sparse Representation for 3D Shape Estimation: A Convex Relaxation Approach	3	4	2	1
+Social Collaborative Filtering by Trust	2	2	2	4
+Automatic Trimap Generation and Consistent Matting for Light-Field Images	0	7	1	1
+Tri-Clustered Tensor Completion for Social-Aware Image Tag Refinement	1	3	3	1
+Semantic Pooling for Complex Event Analysis in Untrimmed Videos	1	7	1	3
+A Tube-and-Droplet-Based Approach for Representing and Analyzing Motion Trajectories	2	3	0	0
+Robust Multiview Photometric Stereo Using Planar Mesh Parameterization	3	3	1	4
+Discriminative Scale Space Tracking	4	2	4	0
+Clustering by Minimum Cut Hyperplanes	4	0	0	1
+Saliency Detection on Light Field	1	4	1	3
+Sparse Representation-Based Open Set Recognition	3	3	0	1
+Cover	0	0	0	0
+The Reproduction Angular Error for Evaluating the Performance of Illuminant Estimation Algorithms	5	2	0	2
+LP Relaxation of the Potts Labeling Problem Is as Hard as Any Linear Program	3	2	0	1
+Joint Intermodal and Intramodal Label Transfers for Extremely Rare or Unseen Classes	5	4	4	0
+DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks	2	1	1	0
+HOTS: A Hierarchy of Event-Based Time-Surfaces for Pattern Recognition	1	3	5	1
+A Unifying Model for Camera Calibration	0	3	0	1
+Tree-Structured Models for Efficient Multi-Cue Scene Labeling	1	5	1	3
+SIFTing Through Scales	2	6	0	3
+DeepShape: Deep-Learned Shape Descriptor for 3D Shape Retrieval	2	2	3	2
+Procrustean Normal Distribution for Non-Rigid Structure from Motion	3	1	1	2
+Randomly Perturbed B-Splines for Nonrigid Image Registration	4	1	1	1
+A Novel Nonparametric Maximum Likelihood Estimator for Probability Density Functions	5	0	0	3
+City-Scale Localization for Cameras with Known Vertical Direction	3	3	0	3
+Learning to Segment Human by Watching YouTube	4	1	4	2
+Latent Regression Forest: Structured Estimation of 3D Hand Poses	1	1	1	1
+Scatter Component Analysis: A Unified Framework for Domain Adaptation and Domain Generalization	3	2	4	4
+Object Detection Networks on Convolutional Feature Maps	3	4	2	4
+An Efficient Globally Optimal Algorithm for Asymmetric Point Matching	3	4	2	2
+Cross-Domain Visual Matching via Generalized Similarity Measure and Feature Learning	1	4	1	1
+Information-Theoretic Compressive Measurement Design	4	0	1	0
+Face Verification via Class Sparsity Based Supervised Encoding	4	1	1	3
+Multi-Language Online Handwriting Recognition	2	4	3	2
+Modeling 4D Human-Object Interactions for Joint Event Segmentation, Recognition, and Object Localization	2	2	2	0
+An Efficient Multilinear Optimization Framework for Hypergraph Matching	0	3	0	1
+Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks	2	2	3	2
+Sparse Learning with Stochastic Composite Optimization	3	4	0	2
+Planar Structure-from-Motion with Affine Camera Models: Closed-Form Solutions, Ambiguities and Degeneracy Analysis	9	5	0	4
+Cross Validation Through Two-Dimensional Solution Surface for Cost-Sensitive SVM	2	4	5	3
+Parametric Surface Diffeomorphometry for Low Dimensional Embeddings of Dense Segmentations and Imagery	3	5	2	0
+A Behavioral Handwriting Model for Static and Dynamic Signature Synthesis	1	1	1	0
+Pose Estimation from Line Correspondences: A Complete Analysis and a Series of Solutions	1	4	0	0
+Face Search at Scale	2	3	8	2
+Best Fitting Hyperplanes for Classification	3	2	3	3
+Trainable Nonlinear Reaction Diffusion: A Flexible Framework for Fast and Effective Image Restoration	2	4	3	1
+Frequency-Domain Transient Imaging	3	2	2	1
+Generation of Duplicated Off-Line Signature Images for Verification Systems	3	2	5	1
+$L_0$ Regularized Stationary-Time Estimation for Crowd Analysis	6	1	2	0
+A Stable Analytical Framework for Isometric Shape-from-Template by Surface Integration	4	5	0	3
+Efficient Activity Detection in Untrimmed Video with Max-Subgraph Search	2	8	2	4
+Elastic Functional Coding of Riemannian Trajectories	3	5	3	4
+Detecting Flying Objects Using a Single Moving Camera	0	4	1	3
+Super Normal Vector for Human Activity Recognition with Depth Cameras	1	2	1	0
+Nasal Patches and Curves for Expression-Robust 3D Face Recognition	6	0	4	0
+Co-Saliency Detection via a Self-Paced Multiple-Instance Learning Framework	1	1	4	0
+Screening Tests for Lasso Problems	1	2	1	1
+Bayesian Time-of-Flight for Realtime Shape, Illumination and Albedo	1	7	1	1
+Dynamic Whitening Saliency	2	3	1	3
+Hyperbolic Harmonic Mapping for Surface Registration	3	1	3	2
+Rank Pooling for Action Recognition	2	6	1	5
+Joint <italic>A Contrario</italic> Ellipse and Line Detection	1	2	3	2
+Local Log-Euclidean Multivariate Gaussian Descriptor and Its Application to Image Classification	6	2	1	4
+Salient Object Detection via Structured Matrix Decomposition	3	2	1	2
+Learning to Generate Chairs, Tables and Cars with Convolutional Networks	0	3	2	2
+Fully Convolutional Networks for Semantic Segmentation	1	4	2	4
+Learning Category-Specific Deformable 3D Models for Object Reconstruction	2	4	4	2
+Object Instance Segmentation and Fine-Grained Localization Using Hypercolumns	0	5	3	1
+Show and Tell: Lessons Learned from the 2015 MSCOCO Image Captioning Challenge	3	5	2	3
+Deep Visual-Semantic Alignments for Generating Image Descriptions	1	5	5	5
+Long-Term Recurrent Convolutional Networks for Visual Recognition and Description	2	2	1	3
+Visual Vibrometry: Estimating Material Properties from Small Motions in Video	1	3	1	2
+Building Proteins in a Day: Efficient 3D Molecular Structure Estimation with Electron Cryomicroscopy	3	1	2	2
+Recovering Inner Slices of Layered Translucent Objects by Multi-Frequency Illumination	2	3	1	0
+Efficient Globally Optimal Consensus Maximisation with Tree Search	3	2	2	1
+Guest Editorial: Best of CVPR 2015	0	0	0	0
+Calcium Ion Fluctuations Alter Channel Gating in a Stochastic Luminal Calcium Release Site Model	3	2	0	4
+On the Complexity of Duplication-Transfer-Loss Reconciliation with Non-Binary Gene Trees	2	1	1	2
+Sorting Circular Permutations by Super Short Reversals	0	4	1	1
+Searching Genome-Wide Multi-Locus Associations for Multiple Diseases Based on Bayesian Inference	2	3	4	2
+Prediction and Validation of Disease Genes Using HeteSim Scores	1	2	1	3
+A Modified Multiple Alignment Fast Fourier Transform with Higher Efficiency	6	2	1	2
+Efficient Constant-Time Complexity Algorithm for Stochastic Simulation of Large Reaction Networks	4	2	1	1
+Drug-Target Interaction Prediction with Graph Regularized Matrix Factorization	3	3	2	4
+RNA Visualization: Relevance and the Current State-of-the-Art Focusing on Pseudoknots	2	3	2	2
+Leveraging FPGAs for Accelerating Short Read Alignment	5	2	4	1
+An Effective Computational Method Incorporating Multiple Secondary Structure Predictions in Topology Determination for Cryo-EM Images	5	3	1	4
+Classical Mechanics Approach Applied to Analysis of Genetic Oscillators	2	2	2	2
+PCID: A Novel Approach for Predicting Disease Comorbidity by Integrating Multi-Scale Data	3	2	1	3
+Protein Complex Detection via Effective Integration of Base Clustering Solutions and Co-Complex Affinity Scores	0	5	0	2
+Robust Reachability of Boolean Control Networks	2	0	1	0
+A Heterogeneous Network Based Method for Identifying GBM-Related Genes by Integrating Multi-Dimensional Data	1	1	0	3
+Genomic Distance with High Indel Costs	0	2	1	1
+txCoords: A Novel Web Application for Transcriptomic Peak Re-Mapping	2	1	0	0
+Bi-convex Optimization to Learn Classifiers from Multiple Biomedical Annotations	4	1	4	2
+Modeling Healthcare Quality via Compact Representations of Electronic Health Records	1	4	2	0
+From Protein Sequence to Protein Function via Multi-Label Linear Discriminant Analysis	2	3	0	0
+Efficient Approach to Correct Read Alignment for Pseudogene Abundance Estimates	4	2	0	3
+Prognosis of Clinical Outcomes with Temporal Patterns and Experiences with One Class Feature Selection	2	4	1	5
+Applications of Transductive Spectral Clustering Methods in a Military Medical Concussion Database	2	2	0	2
+Towards Unsupervised Gene Selection: A Matrix Factorization Framework	2	2	2	0
+Guest Editors¡¯ Introduction to the Special Section on Bioinformatics Research and Applications	0	0	1	0
+Guest Editorial: Special Section on Biological Data Mining and Its Applications in Healthcare	1	0	2	1
+NovoExD: <italic>De novo</italic> Peptide Sequencing for ETD/ECD Spectra	4	0	3	3
+Predicting Protein Functions by Using Unbalanced Random Walk Algorithm on Three Biological Networks	1	1	4	2
+United Complex Centrality for Identification of Essential Proteins from PPI Networks	1	3	0	4
+Identifying Spurious Interactions in the Protein-Protein Interaction Networks Using Local Similarity Preserving Embedding	0	2	1	1
+An Approach for Peptide Identification by De Novo Sequencing of Mixture Spectra	1	2	0	1
+A Two-Phase Improved Correlation Method for Automatic Particle Selection in Cryo-EM	2	5	1	1
+Microbiome Data Representation by Joint Nonnegative Matrix Factorization with Laplacian Regularization	0	2	1	1
+Optimizing Analytical Depth and Cost Efficiency of IEF-LC/MS Proteomics	3	7	2	3
+Muscle Tissue Labeling of Human Lower Limb in Multi-Channel mDixon MR Imaging: Concepts and Applications	3	5	1	1
+Analysis of Organization of the Interactome Using Dominating Sets: A Case Study on Cell Cycle Interaction Networks	0	2	3	1
+Improving Recognition of Antimicrobial Peptides and Target Selectivity through Machine Learning and Genetic Programming	4	1	4	3
+Discovering Protein-DNA Binding Cores by Aligned Pattern Clustering	3	0	1	2
+Multi-View Clustering of Microbiome Samples by Robust Similarity Network Fusion and Spectral Clustering	0	1	1	1
+A New Scheme to Characterize and Identify Protein Ubiquitination Sites	0	1	2	2
+Optimal Landmark Selection for Registration of 4D Confocal Image Stacks in Arabidopsis	2	2	1	3
+Extending and Applying Spartan to Perform Temporal Sensitivity Analyses for Predicting Changes in Influential Biological Pathways in Computational Models	2	3	0	6
+Algorithms and Complexity Results for Genome Mapping Problems	2	3	2	6
+Genome-Wide Semi-Automated Annotation of Transporter Systems	4	0	2	1
+A Resolution of the Static Formulation Question for the Problem of Computing the History Bound	2	4	2	4
+A Flexible Computational Framework Using R and Map-Reduce for Permutation Tests of Massive Genetic Analysis of Complex Traits	3	5	1	2
+D-Map: Random Walking on Gene Network Inference Maps Towards differential Avenue Discovery	2	1	1	1
+Building Ancestral Recombination Graphs for Whole Genomes	0	1	1	1
+A Linear Bound on the Number of States in Optimal Convex Characters for Maximum Parsimony Distance	5	1	7	4
+Metabolic Flux Analysis in Isotope Labeling Experiments Using the Adjoint Approach	4	1	0	0
+Pubcast and Genecast: Browsing and Exploring Publications and Associated Curated Content in Biology Through Mobile Devices	0	1	2	0
+A Characterization of Minimum Spanning Tree-Like Metric Spaces	1	1	2	1
+Guest Editors Introduction to the Special Section on ISBRA 2014	0	0	1	0
+Editorial from the New Editor-in-Chief	0	0	0	0
+Guest Editorial for Special Section on BIBM 2014	0	0	1	0
+A Novel Cluster Head Selection Algorithm Based on Fuzzy Clustering and Particle Swarm Optimization	5	1	4	1
+Fireworks Algorithm with Enhanced Fireworks Interaction	0	0	2	1
+Three-Dimensional Path Planning for Uninhabited Combat Aerial Vehicle Based on Predator-Prey Pigeon-Inspired Optimization in Dynamic Environment	5	0	2	1
+An Effective Application of Bacteria Quorum Sensing and Circular Elimination in MOPSO	3	0	2	2
+Symbiosis-Based Alternative Learning Multi-Swarm Particle Swarm Optimization	2	0	1	2
+Solving NP-Hard Problems with <italic>Physarum</italic>-Based Ant Colony System	2	0	0	2
+A New Magnetotactic Bacteria Optimization Algorithm Based on Moment Migration	4	0	3	2
+A Gene Selection Method for Microarray Data Based on Binary PSO Encoding Gene-to-Class Sensitivity Information	3	0	3	0
+Multi-Objective Particle Swarm Optimization Approach for Cost-Based Feature Selection in Classification	7	0	1	3
+A Cooperative Framework for Fireworks Algorithm	3	0	1	3
+A Graph-Theoretical Approach for Motif Discovery in Protein Sequences	4	3	1	0
+Cancer Progression Prediction Using Gene Interaction Regularized Elastic Net	1	1	1	2
+Graphical Representation and Similarity Analysis of Protein Sequences Based on Fractal Interpolation	2	0	1	1
+On the Variable Ordering in Subgraph Isomorphism Algorithms	1	3	6	0
+An Application of Invertibility of Boolean Control Networks to the Control of the Mammalian Cell Cycle	5	4	0	3
+Extracting Coevolutionary Features from Protein Sequences for Predicting Protein-Protein Interactions	3	2	2	4
+A Visual Interface for Querying Heterogeneous Phylogenetic Databases	3	2	1	3
+Transductive Learning for Multi-Label Protein Subchloroplast Localization Prediction	3	1	3	1
+Editorial: Special Section on Bio-Inspired Swarm Computing and Engineering	0	0	1	0
+2016 Index IEEE/ACM Transactions on Computational Biology and Bioinformatics Vol. 13	0	0	1	0
