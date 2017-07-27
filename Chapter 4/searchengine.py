@@ -1,31 +1,22 @@
+# -*- coding: UTF-8 -*-
 import requests
 import re
 from bs4 import *
 from urllib.parse import urljoin
-from sqlite3 import *
+import sqlite3
+import nn
+
 #构造一个单词列表，这些单词将被忽略
 ignorewords = set(['the', 'of', 'to', 'and', 'a', 'in', 'is', 'it'])
 
+#该类用于检索网页和创建数据库
 class crawler(object):
     #初始化crawler类并传输数据库名称
     def __init__(self, dbname):
-        self.con = connect(dbname)
-    
-    def __del__(self):
-        self.con.close()
-    
+        self.conn = sqlite3.connect(dbname)
+
     def dbcommit(self):
-        self.con.commit()
-        
-    #辅助函数，用于获取条目的id，并且如果条目不存在，就将其加入数据库中
-    def getentryid(self, table, field, value, createnew = True):
-        cur = self.con.execute("select rowid from {} where ? = ?".format(table), (field, value))
-        res = cur.fetchone()
-        if res == None:
-            cur = self.con.execute("insert into {} values (?)".format(table, field), (value,))
-            return cur.lastrowid
-        else:
-            return res[0]
+        self.conn.commit()
     
     #为每个网页建立索引
     def addtoindex(self, url, soup):
@@ -43,7 +34,17 @@ class crawler(object):
             if word in ignorewords:
                 continue
             wordid = self.getentryid('wordlist', 'word', word)
-            self.con.execute('insert into wordlocation(urlid, wordid, location) values(%d, %d, %d)' % (urlid, wordid, i))          
+            self.conn.execute('insert into wordlocation(urlid, wordid, location) values(?, ?, ?)', (urlid, wordid, i))          
+    
+    #辅助函数，用于获取条目的id，并且如果条目不存在，就将其加入数据库中
+    def getentryid(self, table, field, value, createnew = True):
+        cur = self.conn.execute("select rowid from {} where ? = ?".format(table), (field, value))
+        res = cur.fetchone()
+        if res == None:
+            cur = self.conn.execute("insert into {}({}) values (?)".format(table, field), (value,))
+            return cur.lastrowid
+        else:
+            return res[0]
     
     #从一个HTML网页中提取文字（不带标签）
     def gettextonly(self, soup):
@@ -56,19 +57,19 @@ class crawler(object):
                 resulttext += subtext + '\n'
             return resulttext
         else:
-            return v.strip()         
-    
+            return v.strip()
+            
     #根据任何非空白字符进行分词处理
     def separatewords(self, text):
-        splitter = re.compile(r'\w*')
+        splitter = re.compile(r'\w*')#'\w*'对任意非字母和数字的字符匹配
         return [s.lower() for s in splitter.split(text) if s != '']
     
     #如果url已经建立过索引，则返回true
     def isindexed(self, url):
-        u = self.con.execute("select rowid from urllist where url = '%s'" % url).fetchone()
+        u = self.conn.execute("select rowid from urllist where url = ?", (url,)).fetchone()
         if u != None:
             #检查它是否已经被检索过了
-            v = self.con.execute('select * from wordlocation where urlid = ?',(u[0], )).fetchone()
+            v = self.conn.execute('select * from wordlocation where urlid = ?', (u[0],)).fetchone()
             if v!= None:
                 return True
         return False
@@ -77,16 +78,20 @@ class crawler(object):
     def addlinkref(self, urlFrom, urlTo, linkText):
         pass
     
-    #从一小组网页开始进行广度优先搜索，直至某一给定深度,期间为网页建立索引
-    def crawl(self, pages, depth = 2):
+    #从一小组网页开始进行广度优先搜索，直至某一给定深度,期间为网页建立索引,最多建立total个索引
+    def crawl(self, pages, depth = 2，total = 30):
+        cnt = 0
         for i in range(depth):
             newpages = set()
             for page in pages:
+                if cnt > total:
+                    return 
                 try:
                     c = requests.get(page)
                 except:
                     print('Could not open %s' % page)
                     continue
+                cnt += 1
                 soup = BeautifulSoup(c.text, 'html.parser')
                 self.addtoindex(page, soup)
                 links = soup('a')
@@ -102,27 +107,172 @@ class crawler(object):
                         self.addlinkref(page, url, linkText)
                 self.dbcommit()
             pages = newpages
-                        
-        
+                         
     #创建数据库表
     def createindextables(self):
-        self.con.execute('create table urllist(url)')
-        self.con.execute('create table wordlist(word)')
-        self.con.execute('create table wordlocation(urlid, wordid, location)')
-        self.con.execute('create table link(fromid integer, toid integer)')
-        self.con.execute('create table linkwords(wordid, linkid)')
-        self.con.execute('create index wordidx on wordlist(word)')
-        self.con.execute('create index urlidx on urllist(url)')
-        self.con.execute('create index wordurlidx on wordlocation(wordid)')
-        self.con.execute('create index urltoidx on link(toid)')
-        self.con.execute('create index urlfromidx on link(fromid)')
+        self.conn.execute('create table urllist(url)')
+        self.conn.execute('create table wordlist(word)')
+        self.conn.execute('create table wordlocation(urlid, wordid, location)')
+        self.conn.execute('create table link(fromid integer, toid integer)')
+        self.conn.execute('create table linkwords(wordid, linkid)')
+        self.conn.execute('create index wordidx on wordlist(word)')
+        self.conn.execute('create index urlidx on urllist(url)')
+        self.conn.execute('create index wordurlidx on wordlocation(wordid)')
+        self.conn.execute('create index urltoidx on link(toid)')
+        self.conn.execute('create index urlfromidx on link(fromid)')
         self.dbcommit()
         
-                
+    def calculatepagerank(self, iterations = 20):
+        #清除当前的PageRank表
+        self.conn.execute('drop table if exists pagerank')
+        self.conn.execute('create table pagerank(urlid primary key, score)')
+        #初始化每个url，令其PageRank值为1
+        self.conn.execute('insert into pagerank select rowid, 1.0 from urllist')
+        self.dbcommit()
+        for i in range(iterations):
+            print('Iteration %d' % i)
+            for (urlid,) in self.con.execute('select rowid from urllist'):
+                pr = 0.15
+                #循环遍历指向当前网页的所有其他网页
+                for (linker,) in self.conn.execute('select distinct fromid from link where toid = ?', urlid):
+                    #得到链接连接源对应网页的PageRank值
+                    linkingpr = self.conn.execute('select score from pagerank where urlid = ?', linker).fetchone()[0]
+                    #根据链接源，求得总的链接数
+                    linkingcout = self.conn.execute('select count(*) from link where fromid = ?', linker).fetchone()[0]
+                    pr += 0.85 * (linkingpr/linkingcount)
+                self.conn.execute('updata pagerank set score = ? where urlid = ?', (pr, urlid))
+            self.dbcommit()
+        
+        
+class searcher(object):
+    def __init__(self, dbname):
+        self.conn = connect(dbname)
+        
+    def __del__(self):
+        self.conn.close()
+    
+    def getmatchrows(self, q):
+        #构造查询的字符串
+        fieldlist = 'w0.urllid'
+        tablelist = ''
+        clauselist = ''
+        wordids = []
+        #根据空格拆分单词
+        words = q.split(' ')
+        tablenumber = 0
+        for word in words:
+            #获取单词ID
+            wordrow = self.conn.execute("select rowid from wordlist where word = ?", (word,)).fetchone()
+            if wordrow != None:
+                wordid = wordrow[0]
+                wordids.append(wordid)
+                if tablenumber > 0:
+                    tablelist += ','
+                    clauselist += ' and '
+                    claustlist += 'w%d.urlid=w%d.urlid and ' % (tablenumber - 1, tablenumber)
+                fieldlist += ', w%d.location' % tablenumber
+                tablelist += 'wordlocation w%d' % tablenumer
+                clauselist += 'w%d.wordid = %d' % (tablenumber, wordid)
+                tablenumber += 1
+        #根据各个组分，建立查询
+        cur = self.conn.execute('select ? from {} where ?'.format(tablelist), (fieldlist, clauselist))
+        rows = [row for row in cur]
+        return rows, wordids
+        
+    def getscoredlist(self, rows, wordids):
+        totalscores = dict([row[0], 0] for row in rows)
+        #此处是稍后放置评价函数的地方
+        weights = [(1.0, self.frequencyscore(rows))]
+        weights = [(1.0, self.locationscore(rows))]
+        weights = [(1.0, self.frequencyscore(rows)), (1.5, self.locationscore(rows))]
+        for (weight, scores) in weights:
+            for url in totalscores:
+                totalscores[url] += weight * scores[url]
+        return totalscores
+    
+    def geturlname(self, id):
+        return self.conn.excute("select url from urllist where rowid = ?", (id,)).fetchone()[0]
+        
+    def query(self, q):
+        rows, wordids = self.getmatchrows(q)
+        scores = self.getscoredlist(rows, wordids)
+        rankedscores = sorted([(score, urlid) for (urlid, score) in scores.items()], reverse = True)
+        for (score, urlid) in rankedscores[0:10]:
+            print('%f\t%s' % (scores, self.geturlname(urlid)))
+        return wordids, [r[1] for r in rankedscores[0:10]]
+    
+    def normalizedscores(self, scores, smallIsBetter = False):
+        vsmall = 0.00001#避免被零整除
+        if smallIsBetter:
+            minscore = min(scores.values())
+            return dict([(u, float(minscore)/max(vsmall, c)) for (u, c) in scores.items()])
+        else:
+            maxscore = max(scores.values())
+            if maxscore == 0:
+                maxscore = vsmall
+            return dict([(u, float(c)/maxscore) for (u, c) in scores.items()])
+    
+    def frequencyscore(self, rows):
+        counts = dict([(row[0], 0) for row in rows])
+        for row in rows:
+            counts[row[0]] += 1
+        return self.normalizescores(counts)
+    
+    def locationscore(self, rows):
+        locations = dict([(row[0], 1000000) for row in rows])
+        for row in rows:
+            loc = sum(row[1:])
+            if loc < locations[row[0]]:
+                locations[row[0]] = loc
+        return self.normalizescores(counts, smallIsBetter = True)
+    
+    def distancescore(self, rows):
+        #如果仅有一个单词，则得分都一样
+        if len(rows[0]) <= 2:
+            return dict([(row[0], 1.0) for row in rows])            
+        #初始化字典，并填入一个很大的数
+        mindistance = dict([(row[0], 1000000) for row in rows])
+        for row in rows:
+            dist = sum([abs(row[i] - row[i-1]) for i in range(2, len(row))])
+            if dist < mindistance[row[0]]:
+                mindistance[row[0]] = dist
+        return self.normalizescores(mindistance, smallIsBetter = 1)
+    
+    def inboundlinkscore(self, rows):
+        uniqueurls = set([row[0] for row in rows])
+        inboundcount = dict([(u, self.conn.execute('select count(*) from link where toid = ?', u).fetchone()[0]) for u in uniqueurls])
+        return self.normalizescores(inboundcount)
+        
+    def pagerankscore(self, rows):
+        pageranks = dict([(row[0], self.conn.execute('select score from pagerank where urlid = ?', row[0]).fectone()[0]) for row in rows])
+        maxrank = max(pageranks.values())
+        normalizedscores = dict([(u, float(l)/maxrank) for (u, l) in pageranks.items()])
+        return normalizedscores
+    
+    def linktextscore(self, rows, wordids):
+        linkscores = dict([(row[0], 0) for row in rows])
+        for wordid in wordids:
+            cur = self.conn.execute('select link.fromid, link.toid from linkwords, link where wordid = ? and linkwords.linkid = link.rowid', wordid)
+            for (fromid, toid) in cur:
+                if toid in linkscores:
+                    pr = self.conn.execute('select score from pagerank where urlid = ?', fromid).fetchone()[0]
+                    linkscores[toid] += pr
+            maxscore = max(linkscores.values())
+            normalizedscores = dict([(u, float(l)/maxscore) for (u, l) in linkscores.items()])
+            return normalizedscores
+    
+    def nnscore(self, rows, wordids):
+        #获得一个由唯一URL ID构成的有序列表
+        urlids = [urlid for urlid in set([row[0] for row in rows])]
+        nnres = mynet.getresult(wordids, urlids)
+        scores = dict([(urlids[i], nnres[i])] for i in range(len(urlids)))
+        return self.normalizescores(scores)
     
 if __name__ == '__main__':
-    pages = [r'http://www.runoob.com/python/python-tutorial.html']
+    pages = [r'http://chinadaily.com.cn/']
     crawler = crawler('searchindex.db')
+    #crawler.createindextables()
     crawler.crawl(pages)
-    
+    e = searcher('searchindex.db')
+    e.getmatchrows('functional programing')
     
